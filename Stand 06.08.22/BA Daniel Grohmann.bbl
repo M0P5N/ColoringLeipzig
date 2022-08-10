@@ -1,0 +1,414 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{barger2000daguerreotype}{book}{}
+      \name{author}{2}{}{%
+        {{hash=ef6d7487ce79d3e13b0a4402d41a4d5f}{%
+           family={Barger},
+           familyi={B\bibinitperiod},
+           given={M\bibnamedelima Susan},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=71b516c67ed37284b270818ae1100820}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={William\bibnamedelima B},
+           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JHU Press}%
+      }
+      \strng{namehash}{fc0eef0ef4129f387849bee690d03262}
+      \strng{fullhash}{fc0eef0ef4129f387849bee690d03262}
+      \strng{bibnamehash}{fc0eef0ef4129f387849bee690d03262}
+      \strng{authorbibnamehash}{fc0eef0ef4129f387849bee690d03262}
+      \strng{authornamehash}{fc0eef0ef4129f387849bee690d03262}
+      \strng{authorfullhash}{fc0eef0ef4129f387849bee690d03262}
+      \field{labelalpha}{BW00}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Daguerreotype: nineteenth-century technology and modern science}
+      \field{year}{2000}
+    \endentry
+    \entry{eder1884ausfuhrliches}{book}{}
+      \name{author}{1}{}{%
+        {{hash=85e997543167a25d60ea624185d5bc51}{%
+           family={Eder},
+           familyi={E\bibinitperiod},
+           given={Josef\bibnamedelima Maria},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {W. Knapp}%
+      }
+      \strng{namehash}{85e997543167a25d60ea624185d5bc51}
+      \strng{fullhash}{85e997543167a25d60ea624185d5bc51}
+      \strng{bibnamehash}{85e997543167a25d60ea624185d5bc51}
+      \strng{authorbibnamehash}{85e997543167a25d60ea624185d5bc51}
+      \strng{authornamehash}{85e997543167a25d60ea624185d5bc51}
+      \strng{authorfullhash}{85e997543167a25d60ea624185d5bc51}
+      \field{labelalpha}{Ede84}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ausführliches handbuch der photographie}
+      \field{volume}{1}
+      \field{year}{1884}
+    \endentry
+    \entry{ferguson2008living}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f0cc32f1e80be808c853bc175ce82884}{%
+           family={Ferguson},
+           familyi={F\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{f0cc32f1e80be808c853bc175ce82884}
+      \strng{fullhash}{f0cc32f1e80be808c853bc175ce82884}
+      \strng{bibnamehash}{f0cc32f1e80be808c853bc175ce82884}
+      \strng{authorbibnamehash}{f0cc32f1e80be808c853bc175ce82884}
+      \strng{authornamehash}{f0cc32f1e80be808c853bc175ce82884}
+      \strng{authorfullhash}{f0cc32f1e80be808c853bc175ce82884}
+      \field{labelalpha}{Fer08}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Daguerreian Annual}
+      \field{title}{In living color: Process and materials of the hand-colored daguerreotype}
+      \field{year}{2008}
+      \field{pages}{13\bibrangedash 18}
+      \range{pages}{6}
+    \endentry
+    \entry{hacking2012foto}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4785147d037a473bbdbde7bff88f62fa}{%
+           family={Hacking},
+           familyi={H\bibinitperiod},
+           given={Juliet},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {DuMont-Verlag}%
+      }
+      \strng{namehash}{4785147d037a473bbdbde7bff88f62fa}
+      \strng{fullhash}{4785147d037a473bbdbde7bff88f62fa}
+      \strng{bibnamehash}{4785147d037a473bbdbde7bff88f62fa}
+      \strng{authorbibnamehash}{4785147d037a473bbdbde7bff88f62fa}
+      \strng{authornamehash}{4785147d037a473bbdbde7bff88f62fa}
+      \strng{authorfullhash}{4785147d037a473bbdbde7bff88f62fa}
+      \field{labelalpha}{Hac12}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Foto: Fotografie; die ganze Geschichte}
+      \field{year}{2012}
+    \endentry
+    \entry{hannavy2013encyclopedia}{book}{}
+      \name{author}{1}{}{%
+        {{hash=31304dc2a0c1748cf40a7718741db42d}{%
+           family={Hannavy},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{31304dc2a0c1748cf40a7718741db42d}
+      \strng{fullhash}{31304dc2a0c1748cf40a7718741db42d}
+      \strng{bibnamehash}{31304dc2a0c1748cf40a7718741db42d}
+      \strng{authorbibnamehash}{31304dc2a0c1748cf40a7718741db42d}
+      \strng{authornamehash}{31304dc2a0c1748cf40a7718741db42d}
+      \strng{authorfullhash}{31304dc2a0c1748cf40a7718741db42d}
+      \field{labelalpha}{Han13}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Encyclopedia of nineteenth-century photography}
+      \field{year}{2013}
+    \endentry
+    \entry{henisch1996painted}{book}{}
+      \name{author}{2}{}{%
+        {{hash=c160c96170da57378d7370a229e0f95a}{%
+           family={Henisch},
+           familyi={H\bibinitperiod},
+           given={Heinz\bibnamedelima K},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=187c860bd6eb646dcdb8df299fbc396b}{%
+           family={Henisch},
+           familyi={H\bibinitperiod},
+           given={Bridget\bibnamedelima Ann},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Penn State University Press}%
+      }
+      \strng{namehash}{6fa102a516e47fece6ac1976a75865aa}
+      \strng{fullhash}{6fa102a516e47fece6ac1976a75865aa}
+      \strng{bibnamehash}{6fa102a516e47fece6ac1976a75865aa}
+      \strng{authorbibnamehash}{6fa102a516e47fece6ac1976a75865aa}
+      \strng{authornamehash}{6fa102a516e47fece6ac1976a75865aa}
+      \strng{authorfullhash}{6fa102a516e47fece6ac1976a75865aa}
+      \field{labelalpha}{HH96}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The painted photograph, 1839-1914: origins, techniques, aspirations}
+      \field{year}{1996}
+      \field{pages}{21}
+      \range{pages}{1}
+    \endentry
+    \entry{hoppe2010spectroscopic}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=938eb4a08c1f6ed1939527a548bf53ce}{%
+           family={Hoppe},
+           familyi={H\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Delaware}%
+      }
+      \strng{namehash}{938eb4a08c1f6ed1939527a548bf53ce}
+      \strng{fullhash}{938eb4a08c1f6ed1939527a548bf53ce}
+      \strng{bibnamehash}{938eb4a08c1f6ed1939527a548bf53ce}
+      \strng{authorbibnamehash}{938eb4a08c1f6ed1939527a548bf53ce}
+      \strng{authornamehash}{938eb4a08c1f6ed1939527a548bf53ce}
+      \strng{authorfullhash}{938eb4a08c1f6ed1939527a548bf53ce}
+      \field{labelalpha}{Hop10}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Spectroscopic analysis of hand-colored photographs and photographic hand-coloring materials}
+      \field{type}{phdthesis}
+      \field{year}{2010}
+    \endentry
+    \entry{ivankovich2005early}{book}{}
+      \name{author}{2}{}{%
+        {{hash=b334b4742e1165419f06ba2e93814fc0}{%
+           family={Ivankovich},
+           familyi={I\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=31576acc44042e41e8ffb7135b91109e}{%
+           family={Ivankovich},
+           familyi={I\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Collector Books}%
+      }
+      \strng{namehash}{d0e9cd29729830d84e978952dd54f9b9}
+      \strng{fullhash}{d0e9cd29729830d84e978952dd54f9b9}
+      \strng{bibnamehash}{d0e9cd29729830d84e978952dd54f9b9}
+      \strng{authorbibnamehash}{d0e9cd29729830d84e978952dd54f9b9}
+      \strng{authornamehash}{d0e9cd29729830d84e978952dd54f9b9}
+      \strng{authorfullhash}{d0e9cd29729830d84e978952dd54f9b9}
+      \field{labelalpha}{II05}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Early Twentieth Century Hand-painted Photography: Identification \& Values}
+      \field{year}{2005}
+    \endentry
+    \entry{lavedrine2009photographs}{book}{}
+      \name{author}{4}{}{%
+        {{hash=b53588a8ea746e4a45cbb4f21fafe651}{%
+           family={Lavédrine},
+           familyi={L\bibinitperiod},
+           given={Bertrand},
+           giveni={B\bibinitperiod}}}%
+        {{hash=a9e39826606b7c10f2241543b974175d}{%
+           family={Frizot},
+           familyi={F\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a51f0b80f47855c0183dafb3953621ec}{%
+           family={Gandolfo},
+           familyi={G\bibinitperiod},
+           given={Jean-Paul},
+           giveni={J\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=32a2b3adccf3e4041876afaf86f50582}{%
+           family={Monod},
+           familyi={M\bibinitperiod},
+           given={Sibylle},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Getty Publications}%
+      }
+      \strng{namehash}{cf592eba717efa9984be9d0d05339c6e}
+      \strng{fullhash}{b79af25109de66a8c25f0d897e83326f}
+      \strng{bibnamehash}{cf592eba717efa9984be9d0d05339c6e}
+      \strng{authorbibnamehash}{cf592eba717efa9984be9d0d05339c6e}
+      \strng{authornamehash}{cf592eba717efa9984be9d0d05339c6e}
+      \strng{authorfullhash}{b79af25109de66a8c25f0d897e83326f}
+      \field{labelalpha}{Lav+09}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Photographs of the past: process and preservation}
+      \field{year}{2009}
+    \endentry
+    \entry{lefevre2007inside}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b8d8026f240f7437a17aad87bf2a3a8e}{%
+           family={Lefèvre},
+           familyi={L\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Max-Planck-Institut für Wissenschaftsgeschichte}%
+      }
+      \strng{namehash}{b8d8026f240f7437a17aad87bf2a3a8e}
+      \strng{fullhash}{b8d8026f240f7437a17aad87bf2a3a8e}
+      \strng{bibnamehash}{b8d8026f240f7437a17aad87bf2a3a8e}
+      \strng{authorbibnamehash}{b8d8026f240f7437a17aad87bf2a3a8e}
+      \strng{authornamehash}{b8d8026f240f7437a17aad87bf2a3a8e}
+      \strng{authorfullhash}{b8d8026f240f7437a17aad87bf2a3a8e}
+      \field{labelalpha}{Lef07}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Inside the camera obscura--Optics and art under the spell of the projected image}
+      \field{year}{2007}
+    \endentry
+    \entry{luan2007natural}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=18145b97e46654e3d7dd92d77aa553f2}{%
+           family={Luan},
+           familyi={L\bibinitperiod},
+           given={Qing},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=d71a95ac64c07b96c49c292f7d6fce88}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Fang},
+           giveni={F\bibinitperiod}}}%
+        {{hash=cdf44d78713bc27a81394749a9d8bbdc}{%
+           family={Cohen-Or},
+           familyi={C\bibinithyphendelim O\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=006e53a80b22ed5a8da8aae78a1daf17}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d865a5620f26f8bf813042241e84dddd}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Ying-Qing},
+           giveni={Y\bibinithyphendelim Q\bibinitperiod}}}%
+        {{hash=6717ac430ded5443ac6184d0e521cd1f}{%
+           family={Shum},
+           familyi={S\bibinitperiod},
+           given={Heung-Yeung},
+           giveni={H\bibinithyphendelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{d9ebcab276b57b180ae474c929c08416}
+      \strng{fullhash}{99e7cfa39357e1a1c9befc758f08d1ed}
+      \strng{bibnamehash}{d9ebcab276b57b180ae474c929c08416}
+      \strng{authorbibnamehash}{d9ebcab276b57b180ae474c929c08416}
+      \strng{authornamehash}{d9ebcab276b57b180ae474c929c08416}
+      \strng{authorfullhash}{99e7cfa39357e1a1c9befc758f08d1ed}
+      \field{labelalpha}{Lua+07}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 18th Eurographics conference on Rendering Techniques}
+      \field{title}{Natural image colorization}
+      \field{year}{2007}
+      \field{pages}{309\bibrangedash 320}
+      \range{pages}{12}
+    \endentry
+    \entry{mills1998vermeer}{article}{}
+      \name{author}{1}{}{%
+        {{hash=10c864c5caeb935e2e96685b8c463c1a}{%
+           family={Mills},
+           familyi={M\bibinitperiod},
+           given={Allan\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{10c864c5caeb935e2e96685b8c463c1a}
+      \strng{fullhash}{10c864c5caeb935e2e96685b8c463c1a}
+      \strng{bibnamehash}{10c864c5caeb935e2e96685b8c463c1a}
+      \strng{authorbibnamehash}{10c864c5caeb935e2e96685b8c463c1a}
+      \strng{authornamehash}{10c864c5caeb935e2e96685b8c463c1a}
+      \strng{authorfullhash}{10c864c5caeb935e2e96685b8c463c1a}
+      \field{labelalpha}{Mil98}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Leonardo}
+      \field{number}{3}
+      \field{title}{Vermeer and the camera obscura: Some practical considerations}
+      \field{volume}{31}
+      \field{year}{1998}
+      \field{pages}{213\bibrangedash 218}
+      \range{pages}{6}
+    \endentry
+    \entry{towler1873silver}{book}{}
+      \name{author}{1}{}{%
+        {{hash=489f15a9c7a01e74a487cea12f640bdc}{%
+           family={Towler},
+           familyi={T\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {E. \& HT Anthony}%
+      }
+      \strng{namehash}{489f15a9c7a01e74a487cea12f640bdc}
+      \strng{fullhash}{489f15a9c7a01e74a487cea12f640bdc}
+      \strng{bibnamehash}{489f15a9c7a01e74a487cea12f640bdc}
+      \strng{authorbibnamehash}{489f15a9c7a01e74a487cea12f640bdc}
+      \strng{authornamehash}{489f15a9c7a01e74a487cea12f640bdc}
+      \strng{authorfullhash}{489f15a9c7a01e74a487cea12f640bdc}
+      \field{labelalpha}{Tow73}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Silver Sunbeam: A Practical and Theoretical Text-book on Sun Drawing and Photographic Printing}
+      \field{year}{1873}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
